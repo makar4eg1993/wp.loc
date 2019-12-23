@@ -100,7 +100,7 @@ else d.documentElement.firstChild.appendChild(s);
             </div>
         </div>
         <div class="collapse navbar-collapse justify-content-lg-center" id="navbarSupportedContent">
-          
+
 
             <?php wp_nav_menu( [
                 'theme_location'  => 'header-menu',
